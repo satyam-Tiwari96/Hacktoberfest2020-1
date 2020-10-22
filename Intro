@@ -1,0 +1,6 @@
+#include<stdio.h>
+
+int main(){
+printf("My name is Satyam Tiwari and I'm from BCA first semester");
+return 0;
+}
